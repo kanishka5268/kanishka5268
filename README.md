@@ -14,22 +14,44 @@ and building projects that combine software engineering with AI.
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-C++ • Python • Java • JavaScript
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
 
 ### 🧠 Core CS
-Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks
+
+**Data Structures & Algorithms** • **OOP** • **Operating Systems** • **DBMS** • **Computer Networks**
 
 ### 🤖 AI / Machine Learning
-LLMs • RAG • Ollama • Scikit-learn • XGBoost • SHAP
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+**LLMs** • **RAG** • **Ollama** • **XGBoost** • **SHAP**
 
 ### 🌐 Web & APIs
-HTML5 • CSS • REST APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**REST APIs**
 
 ### 🗄️ Data & Databases
-Pandas • NumPy • Matplotlib • MySQL • Vector Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**Pandas** • **NumPy** • **Matplotlib** • **Vector Databases**
 
 ### 🛠️ Tools
-Git • GitHub • VS Code
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
