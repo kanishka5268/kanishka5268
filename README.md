@@ -55,8 +55,6 @@ and building projects that combine software engineering with AI.
 
 ---
 
-## 🔨 Featured Projects
-
 <div align="center">
 
 <h2>🔨 Featured Projects</h2>
