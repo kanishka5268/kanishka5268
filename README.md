@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there, I'm Kanishka! 👋
 
-<!--
-**kanishka5268/kanishka5268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student @ IIT (BHU), Varanasi
 
-Here are some ideas to get you started:
+I'm an Integrated Dual Degree student at the Indian Institute of Technology (BHU),
+focused on software engineering, data structures & algorithms, and building
+systems from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with C++ and Python, exploring algorithms and systems,
+and building projects that combine software engineering with AI.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+C++ • Python • Java • JavaScript
+
+### 🧠 Core CS
+Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks
+
+### 🤖 AI / Machine Learning
+LLMs • RAG • Ollama • Scikit-learn • XGBoost • SHAP
+
+### 🌐 Web & APIs
+HTML5 • CSS • REST APIs
+
+### 🗄️ Data & Databases
+Pandas • NumPy • Matplotlib • MySQL • Vector Databases
+
+### 🛠️ Tools
+Git • GitHub • VS Code
+
+---
+
+## 🔨 Featured Projects
+
+### 🔍 Deep Packet Inspection Engine
+
+**C++17 • PCAP Parsing • TLS SNI • Network Traffic Analysis**
+
+A modular packet-inspection engine for analyzing offline PCAP files,
+with protocol parsing, TLS SNI extraction, flow tracking and configurable
+packet filtering.
+
+### 🧠 Semantic Vector Database + Local RAG
+
+**C++17 • HNSW • KD-Tree • REST API • Ollama • RAG**
+
+A semantic vector database implementing multiple nearest-neighbour
+search algorithms, exposed through a REST API and interactive web interface,
+with local embeddings and a RAG pipeline.
+
+### 🌱 Soil Heavy Metal Contamination Prediction
+
+**Python • Scikit-learn • XGBoost • SHAP**
+
+An end-to-end machine learning pipeline comparing multiple classification
+models and using SHAP explainability to interpret model predictions.
+
+---
+
+## 🎯 Currently Focusing On
+
+- Data Structures & Algorithms
+- C++ and Software Engineering
+- Computer Science Fundamentals
+- Systems & Networking
+- AI / RAG Systems
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/kanishka-sakunia-iit-bhu-440369289) •
+[Email](mailto:sakuniakanishka@gmail.com)
