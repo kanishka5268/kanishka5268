@@ -156,5 +156,5 @@ coursework and software projects.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/kanishka-sakunia-iit-bhu-440369289) •
+[LinkedIn](https://www.linkedin.com/in/kanishka-sakunia-440369289) •
 [Email](mailto:sakuniakanishka@gmail.com)
