@@ -16,7 +16,7 @@ and building projects that combine software engineering with AI.
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
 </p>
 
 ### 🧠 Core CS
@@ -34,15 +34,15 @@ and building projects that combine software engineering with AI.
 ### 🌐 Web & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
 </p>
 
-**REST APIs**
+**REST APIs** • **FastAPI** • **React** • **Vite**
 
 ### 🗄️ Data & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 **Pandas** • **NumPy** • **Matplotlib** • **Vector Databases**
@@ -63,6 +63,27 @@ and building projects that combine software engineering with AI.
 <tr>
 <td width="50%" valign="top">
 
+<h3>📊 KPI Intelligence Engine</h3>
+
+<p>
+<b>Python</b> • PostgreSQL • FastAPI • React • LLMs • Data Analytics
+</p>
+
+<p>
+An end-to-end business intelligence and investigation platform that
+detects KPI anomalies, gathers statistical evidence, evaluates competing
+hypotheses, assigns confidence, and translates findings into
+evidence-backed business actions.
+</p>
+
+<a href="https://github.com/Sahil251005/Kpi_intelligence_engine">
+<b>View Repository →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>🔍 Deep Packet Inspection Engine</h3>
 
 <p>
@@ -80,7 +101,9 @@ five-tuple flow tracking and configurable packet filtering.
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3>🧠 Semantic Vector Database + Local RAG</h3>
@@ -96,28 +119,6 @@ interactive web interface and local RAG pipeline.
 </p>
 
 <a href="https://github.com/kanishka5268/Semantic-Vector-database-with-HNSW-RAG">
-<b>View Repository →</b>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌱 Soil Heavy Metal Contamination Prediction</h3>
-
-<p>
-<b>Python</b> • Scikit-learn • XGBoost • SHAP • Pandas
-</p>
-
-<p>
-An end-to-end machine learning pipeline comparing multiple
-classification models and using SHAP explainability to interpret
-model predictions.
-</p>
-
-<a href="https://github.com/kanishka5268/Soil-heavy-metal-contamination-prediction">
 <b>View Repository →</b>
 </a>
 
