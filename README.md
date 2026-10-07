@@ -78,7 +78,7 @@ Built with a decoupled storage/database architecture and an asynchronous
 processing pipeline.
 </p>
 
-<a href="https://github.com/kanishka5268">
+<a href="[https://github.com/kanishka5268](https://github.com/kanishka5268/Voxa-audio-notes-platform)">
 <b>View Project →</b>
 </a>
 
