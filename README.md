@@ -1,13 +1,12 @@
 # Hi there, I'm Kanishka! 👋
 
-### Software Engineering Student @ IIT (BHU), Varanasi
+### IDD Biochemical Engineering @ IIT (BHU), Varanasi
 
-I'm an Integrated Dual Degree student at the Indian Institute of Technology (BHU),
-focused on software engineering, data structures & algorithms, and building
-systems from the ground up.
+I'm an Integrated Dual Degree student at **IIT (BHU), Varanasi**, interested in **Software Engineering, AI/ML, and systems-oriented development**.
 
-I enjoy working with C++ and Python, exploring algorithms and systems,
-and building projects that combine software engineering with AI.
+I enjoy building things from the ground up — from **C++ systems and data structures** to **AI-powered applications, RAG pipelines, backend APIs, data analytics, and machine learning systems**.
+
+I'm particularly interested in understanding how software works under the hood while using AI/ML to build practical, intelligent applications.
 
 ---
 
@@ -16,12 +15,12 @@ and building projects that combine software engineering with AI.
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript" />
 </p>
 
-### 🧠 Core CS
+### 🧠 Computer Science
 
-**Data Structures & Algorithms** • **OOP** • **Operating Systems** • **DBMS** • **Computer Networks**
+**Data Structures & Algorithms** • **OOP** • **Operating Systems** • **DBMS** • **Computer Networks** • **System Design**
 
 ### 🤖 AI / Machine Learning
 
@@ -29,38 +28,62 @@ and building projects that combine software engineering with AI.
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-**LLMs** • **RAG** • **Ollama** • **XGBoost** • **SHAP**
+**Machine Learning** • **LLMs** • **RAG** • **Embeddings** • **Vector Search** • **XGBoost** • **SHAP** • **Ollama**
 
-### 🌐 Web & APIs
+### 🌐 Backend & Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,fastapi" />
 </p>
 
-**REST APIs** • **FastAPI** • **React** • **Vite**
+**FastAPI** • **REST APIs** • **React** • **Next.js** • **TypeScript** • **Backend Architecture** • **Async Processing**
 
 ### 🗄️ Data & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" />
 </p>
 
-**Pandas** • **NumPy** • **Matplotlib** • **Vector Databases**
+**PostgreSQL** • **MySQL** • **Supabase** • **Pandas** • **NumPy** • **Matplotlib** • **Data Analytics** • **Vector Databases**
 
-### 🛠️ Tools
+### ⚙️ Systems & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
+
+**C++ Systems Programming** • **PCAP / Network Analysis** • **REST APIs** • **Git & GitHub**
 
 ---
 
 <div align="center">
 
-<h2>🔨 Featured Projects</h2>
+<h2>⭐ Featured Projects</h2>
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+<h3>🎙️ Voxa — Audio Notes Platform</h3>
+
+<p>
+<b>Next.js</b> • FastAPI • Python • Supabase • PostgreSQL • STT • LLMs
+</p>
+
+<p>
+An asynchronous audio-to-notes platform that handles private audio uploads,
+background transcription, transcript persistence and AI-powered summarization.
+Built with a decoupled storage/database architecture and an asynchronous
+processing pipeline.
+</p>
+
+<a href="https://github.com/kanishka5268">
+<b>View Project →</b>
+</a>
+
+</td>
+
 <td width="50%" valign="top">
 
 <h3>📊 KPI Intelligence Engine</h3>
@@ -70,13 +93,36 @@ and building projects that combine software engineering with AI.
 </p>
 
 <p>
-An end-to-end business intelligence and investigation platform that
-detects KPI anomalies, gathers statistical evidence, evaluates competing
-hypotheses, assigns confidence, and translates findings into
-evidence-backed business actions.
+An end-to-end business intelligence and investigation platform that detects
+KPI anomalies, gathers statistical evidence, evaluates competing hypotheses,
+assigns confidence, and translates findings into evidence-backed business actions.
 </p>
 
 <a href="https://github.com/Sahil251005/Kpi_intelligence_engine">
+<b>View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Semantic Vector Database + Local RAG</h3>
+
+<p>
+<b>C++17</b> • HNSW • KD-Tree • REST API • Ollama • RAG
+</p>
+
+<p>
+A semantic vector database implementing HNSW, KD-Tree and brute-force
+nearest-neighbour search, combined with a REST API, interactive interface
+and local RAG pipeline.
+</p>
+
+<a href="https://github.com/kanishka5268/Semantic-Vector-database-with-HNSW-RAG">
 <b>View Repository →</b>
 </a>
 
@@ -91,9 +137,9 @@ evidence-backed business actions.
 </p>
 
 <p>
-A modular packet-inspection engine for offline PCAP analysis with
-Ethernet, IPv4, TCP and UDP parsing, TLS SNI extraction,
-five-tuple flow tracking and configurable packet filtering.
+A modular packet-inspection engine for offline PCAP analysis with Ethernet,
+IPv4, TCP and UDP parsing, TLS SNI extraction, five-tuple flow tracking
+and configurable packet filtering.
 </p>
 
 <a href="https://github.com/kanishka5268/DPI_Engine">
@@ -101,43 +147,7 @@ five-tuple flow tracking and configurable packet filtering.
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 Semantic Vector Database + Local RAG</h3>
-
-<p>
-<b>C++17</b> • HNSW • KD-Tree • REST API • Ollama • RAG
-</p>
-
-<p>
-A semantic vector database implementing HNSW, KD-Tree and
-brute-force nearest-neighbour search, with a REST API,
-interactive web interface and local RAG pipeline.
-</p>
-
-<a href="https://github.com/kanishka5268/Semantic-Vector-database-with-HNSW-RAG">
-<b>View Repository →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📚 More Projects</h3>
-
-<p>
-Explore my GitHub repositories for additional experiments,
-coursework and software projects.
-</p>
-
-<a href="https://github.com/kanishka5268?tab=repositories">
-<b>View All Repositories →</b>
-</a>
-
-</td>
 </tr>
 </table>
 
@@ -145,13 +155,35 @@ coursework and software projects.
 
 ---
 
-## 🎯 Currently Focusing On
+## 🧪 Other Projects
 
-- Data Structures & Algorithms
-- C++ and Software Engineering
-- Computer Science Fundamentals
-- Systems & Networking
-- AI / RAG Systems
+### 🌱 Soil Heavy Metal Contamination Prediction
+
+**Python • Pandas • NumPy • Scikit-learn • XGBoost • SHAP**
+
+Comparative analysis of machine learning models for predicting soil heavy-metal contamination, including preprocessing, EDA, PCA, Logistic Regression, Random Forest, Decision Trees, XGBoost, Gradient Boosting, SVM and SHAP-based interpretability.
+
+### 🚦 Traffic Accident Severity Prediction
+
+Machine learning project focused on predicting accident severity using data preprocessing, feature engineering and classification techniques.
+
+---
+
+## 🎯 What I Like Building
+
+- 🤖 **AI / ML applications**
+- 🧠 **RAG & LLM-powered systems**
+- 🔎 **Vector search & semantic retrieval**
+- ⚙️ **C++ systems & algorithms**
+- 🌐 **Backend APIs & full-stack applications**
+- 📊 **Data analytics & machine learning**
+- 🌐 **Networking & packet analysis**
+
+---
+
+## 📚 Currently Exploring
+
+**Advanced Machine Learning** • **AI Engineering** • **RAG Systems** • **System Design** • **C++** • **Backend Architecture** • **Computer Science Fundamentals**
 
 ---
 
@@ -159,3 +191,11 @@ coursework and software projects.
 
 [LinkedIn](https://www.linkedin.com/in/kanishka-sakunia-440369289) •
 [Email](mailto:sakuniakanishka@gmail.com)
+
+---
+
+<div align="center">
+
+### *Building systems, learning how they work, and making them smarter.*
+
+</div>
