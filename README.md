@@ -79,7 +79,7 @@ processing pipeline.
 </p>
 
 <a href="https://github.com/kanishka5268/Voxa-audio-notes-platform">
-<b>View Project →</b>
+<b>View Repository →</b>
 </a>
 
 </td>
